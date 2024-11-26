@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_climable_ladder","order":2,"path":"objects/obj_climable_ladder/obj_climable_ladder.yy",},
+    {"name":"obj_climbable_ladder","order":1,"path":"objects/obj_climbable_ladder/obj_climbable_ladder.yy",},
+    {"name":"level_2","order":1,"path":"rooms/level_2/level_2.yy",},
+    {"name":"spr_ladder","order":2,"path":"sprites/spr_ladder/spr_ladder.yy",},
+  ],
+}

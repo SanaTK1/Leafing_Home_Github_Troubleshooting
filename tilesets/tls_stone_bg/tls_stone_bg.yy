@@ -1,0 +1,46 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tls_stone_bg",
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[
+        1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+      ],},
+  ],
+  "macroPageTiles":{
+    "SerialiseHeight":15,
+    "SerialiseWidth":13,
+    "TileCompressedData":[
+      -42,0,-3,1,-9,0,-2,1,-2,0,1,1,-8,0,1,1,-12,0,4,1,0,0,1,-8,0,-12,1,1,0,-12,1,1,0,-12,1,1,0,-12,1,1,0,
+      -12,1,1,0,-12,1,1,0,-12,1,1,0,-12,1,
+    ],
+    "TileDataFormat":1,
+  },
+  "name":"tls_stone_bg",
+  "out_columns":1,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_stone_bg",
+    "path":"sprites/spr_stone_bg/spr_stone_bg.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":64,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":64,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":2,
+}
