@@ -128,10 +128,10 @@ x_ground_accel = 1
 x_ground_decel = 1
 x_air_accel = 1
 x_air_decel = 0.5
-x_max_speed = 4
+x_max_speed = 5
 
 y_speed = 0
-y_max_speed = 20
+y_max_speed = 18
 
 coyote_max = 5
 walljump_control_max = 20; // Third of a sec? 60fps.

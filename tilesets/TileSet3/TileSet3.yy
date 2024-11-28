@@ -1,18 +1,13 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"tls_test_pattern",
-  "autoTileSets":[
-    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[
-        47,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,
-        37,38,39,40,41,42,43,44,45,46,
-      ],},
-  ],
+  "%Name":"TileSet3",
+  "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"tls_test_pattern",
+  "name":"TileSet3",
   "out_columns":7,
   "out_tilehborder":2,
   "out_tilevborder":2,
@@ -23,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_test_pattern",
-    "path":"sprites/spr_test_pattern/spr_test_pattern.yy",
+    "name":"spr_wood_bg",
+    "path":"sprites/spr_wood_bg/spr_wood_bg.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
